@@ -1,2 +1,0 @@
-# hesapmakinesi
-kücük hesap makinesi
